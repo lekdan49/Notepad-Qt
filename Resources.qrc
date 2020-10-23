@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>C:/Users/Dan/Downloads/Icons/Icons/Copy.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/Cut.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/New.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/Open.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/Paste.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/Save.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/print-512.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/redo.bmp</file>
+        <file>C:/Users/Dan/Downloads/Icons/Icons/undo.bmp</file>
+    </qresource>
+</RCC>
